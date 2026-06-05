@@ -1,0 +1,14 @@
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\bin\Debug\TelemetriaFH6.exe.config
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\bin\Debug\TelemetriaFH6.exe
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\bin\Debug\TelemetriaFH6.pdb
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.csproj.AssemblyReference.cache
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.Form1.resources
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.FormHelp.resources
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.FormOptions.resources
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.FormPassword.resources
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.Properties.Resources.resources
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.csproj.GenerateResource.cache
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.csproj.CoreCompileInputs.cache
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.exe
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.pdb
+C:\Users\geral\source\repos\TelemetriaFH6\TelemetriaFH6\obj\Debug\TelemetriaFH6.FormDevTest.resources
